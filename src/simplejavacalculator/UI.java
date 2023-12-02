@@ -1,20 +1,4 @@
-/**
- * @name        Simple Java Calculator
- * @package     ph.calculator
- * @file        UI.java
- * @author      SORIA Pierre-Henry
- * @email       pierrehs@hotmail.com
- * @link        http://github.com/pH-7
- * @copyright   Copyright Pierre-Henry SORIA, All Rights Reserved.
- * @license     Apache (http://www.apache.org/licenses/LICENSE-2.0)
- * @create      2012-03-30
- *
- * @modifiedby  Achintha Gunasekara
- * @modifiedby  Kydon Chantzaridis
- * @modweb      http://www.achinthagunasekara.com
- * @modemail    contact@achinthagunasekara.com
- * @modemail    kchantza@csd.auth.gr
- */
+
 
 package simplejavacalculator;
 
@@ -30,7 +14,6 @@ import java.awt.Font;
 import javax.swing.Box;
 import javax.swing.BoxLayout;
 
-import java.awt.Image;
 import javax.swing.ImageIcon; 
 import java.io.*;
 
